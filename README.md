@@ -6,7 +6,7 @@
 2.  Select a **namespace**
 3.  Select a **pod**
 4.  Automatically run
-        kubectl exec -it <pod> -n <namespace> -- /bin/bash
+        `kubectl exec -it <pod> -n <namespace> -- /bin/bash`
 
 No UI components. No external dependencies.  
 Just clean console menus and a straightforward workflow that works reliably on **Windows 10/11 PowerShell**.
